@@ -1,0 +1,8 @@
+Q:\lp2\ProjetoVolume\ProjetoVolume\bin\Debug\ProjetoVolume.exe.config
+Q:\lp2\ProjetoVolume\ProjetoVolume\bin\Debug\ProjetoVolume.exe
+Q:\lp2\ProjetoVolume\ProjetoVolume\bin\Debug\ProjetoVolume.pdb
+Q:\lp2\ProjetoVolume\ProjetoVolume\obj\Debug\ProjetoVolume.Properties.Resources.resources
+Q:\lp2\ProjetoVolume\ProjetoVolume\obj\Debug\ProjetoVolume.csproj.GenerateResource.Cache
+Q:\lp2\ProjetoVolume\ProjetoVolume\obj\Debug\ProjetoVolume.exe
+Q:\lp2\ProjetoVolume\ProjetoVolume\obj\Debug\ProjetoVolume.pdb
+Q:\lp2\ProjetoVolume\ProjetoVolume\obj\Debug\ProjetoVolume.ProjetoVolume.resources
